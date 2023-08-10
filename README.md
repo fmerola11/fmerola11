@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I am Francesco Merola. I achieved the Bachelor's Degree in Computer Engineering in 2022 and now I'm an Apple Developer Academy student in Naples 🍎. I'm currently learning the fantastic world of app development, using Swift and Xcode 📱**
+**I am Francesco Merola. I achieved the Bachelor's Degree in Computer Engineering in 2022 and studied at the Apple Developer Academy in Naples 🍎. I'm currently in the fantastic world of app development, working for Open Reply IT 📱**
 
 **Take a look at my public repositories to see my projects 🤓**
 

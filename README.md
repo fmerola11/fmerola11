@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I am Francesco Merola. I achieved the Bachelor's Degree in Computer Engineering in 2022 and studied at the Apple Developer Academy in Naples 🍎. I'm currently in the fantastic world of iOS app development, working for Open Reply IT 📱**
+**I am Francesco Merola. I achieved the Bachelor's Degree in Computer Engineering in 2022 and studied at the Apple Developer Academy in Naples 🍎. I'm currently part of the fantastic world of iOS app development, working for Open Reply IT 📱**
 
 **In addition to my job and Swift, which I use everyday, during my free time I like studying other programming languages to extend my knowledge and have fun, also with the development of simple app. Coding, for me, is passion and a pleasure**
 
